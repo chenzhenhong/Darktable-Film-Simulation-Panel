@@ -75,3 +75,7 @@ The styles were compiled using *darktable-chart*:
 The supplied target images were shot in sideways midday sunlight, white-balanced on a sheet of white paper. They were processed in-camera to the various film simulations.
 
 When exporting the RAF/DNG target PFM, set up darktable to your preferred baseline. In my case, I want the style to apply after Sigmoid, so I include Sigmoid with my default settings in the RAF/DNG. As a fun diversion, you can mix and match source and target files as you please, for example, you can readily create a style for replicating Ricoh's "Positive Film" simulation from a Fuji camera.
+
+## License
+
+I release the code in this repository into the public domain.
